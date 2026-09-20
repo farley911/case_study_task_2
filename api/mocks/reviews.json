@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "room_type": "king_suite",
+    "review": "This room is amazing! The bed is super comfortable and the view is perfect.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "room_type": "queen_suite",
+    "review": "This room is great! The bed is super comfortable and the view is perfect.",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "room_type": "strip_view_king_suite",
+    "review": "This room is amazing! The bed is super comfortable and the view is perfect.",
+    "rating": 5
+  }
+]

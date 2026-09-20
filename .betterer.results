@@ -1,0 +1,44 @@
+// BETTERER RESULTS V2.
+//
+// If this file contains merge conflicts, use `betterer merge` to automatically resolve them:
+// https://phenomnomnominal.github.io/betterer/docs/results-file/#merge
+//
+exports[`coverage: branches never decreases`] = {
+  value: `100
+`
+};
+
+exports[`coverage: functions never decreases`] = {
+  value: `100
+`
+};
+
+exports[`coverage: lines never decreases`] = {
+  value: `100
+`
+};
+
+exports[`coverage: statements never decreases`] = {
+  value: `100
+`
+};
+
+exports[`no new TypeScript suppressions`] = {
+  value: `{
+    "src/routeTree.gen.ts:3209407942": [
+      [2, 3, 11, "Do not introduce TypeScript suppressions", "2783191048"]
+    ]
+  }`
+};
+
+exports[`no new ESLint suppressions`] = {
+  value: `{
+    "src/routeTree.gen.ts:3209407942": [
+      [0, 3, 14, "Do not introduce ESLint suppressions", "1298441941"]
+    ]
+  }`
+};
+
+exports[`no new Stylelint suppressions`] = {
+  value: `{}`
+};

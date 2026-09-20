@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "room_type": "king_suite",
+    "name": "Premier King Suite",
+    "description": "725 sq ft・1 King Bed・3 guests max",
+    "price": 260,
+    "photos": [
+      "https://static.mgmresorts.com/transform/oJaHWphcM5w4/MGM_Delano_King_Suite_Room_Pano_closed_002.tif",
+      "https://static.mgmresorts.com/transform/3n2z35OY757/WLV84615147.jpg",
+      "https://static.mgmresorts.com/transform/wVpgtaZTehe6/MGM_Delano_King_Suite_Living_Room_Pano_Closed_002.tif"
+    ]
+  },
+  {
+    "id": 2,
+    "room_type": "strip_view_king_suite",
+    "name": "Escape Strip View King Suite",
+    "description": "725 sq ft・1 King Bed・3 guests max",
+    "price": 290,
+    "photos": [
+      "https://static.mgmresorts.com/transform/c0AcIOCdGiv3/MGM_Delano_King_Suite_Room_Pano_open_002.tif",
+      "https://static.mgmresorts.com/transform/U29I6n3mTyj1/MGM_Delano_King_Suite_Living_Room_Pano_Open_002.tif",
+      "https://static.mgmresorts.com/transform/AYhuQv3DM6v6/MGM_Delano_Suite_Bath_Pano_003.tif"
+    ]
+  },
+  {
+    "id": 3,
+    "room_type": "queen_suite",
+    "name": "Premier Queen Suite",
+    "description": "725 sq ft・2 Queen Beds・4 guests max",
+    "price": 260,
+    "photos": [
+      "https://static.mgmresorts.com/transform/oJaHWphcM5w4/MGM_Delano_King_Suite_Room_Pano_closed_002.tif",
+      "https://static.mgmresorts.com/transform/3n2z35OY757/WLV84615147.jpg",
+      "https://static.mgmresorts.com/transform/wVpgtaZTehe6/MGM_Delano_King_Suite_Living_Room_Pano_Closed_002.tif"
+    ]
+  },
+  {
+    "id": 4,
+    "room_type": "strip_view_queen_suite",
+    "name": "Escape Strip View Queen Suite",
+    "description": "725 sq ft・2 Queen Beds・4 guests max",
+    "price": 290,
+    "photos": [
+      "https://static.mgmresorts.com/transform/c0AcIOCdGiv3/MGM_Delano_King_Suite_Room_Pano_open_002.tif",
+      "https://static.mgmresorts.com/transform/U29I6n3mTyj1/MGM_Delano_King_Suite_Living_Room_Pano_Open_002.tif",
+      "https://static.mgmresorts.com/transform/AYhuQv3DM6v6/MGM_Delano_Suite_Bath_Pano_003.tif"
+    ]
+  }
+]
